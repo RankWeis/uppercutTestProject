@@ -16,10 +16,11 @@
     <dependencies>
         <dependency>
             <groupId>io.karatelabs</groupId>
-            <artifactId>karate-junit5</artifactId>
+            <artifactId>karate-core</artifactId>
             <version>1.5.1</version>
             <scope>test</scope>
         </dependency>
+
     </dependencies>
 
     <build>
