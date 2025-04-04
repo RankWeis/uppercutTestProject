@@ -1,4 +1,5 @@
 @short
 Feature: short
   Scenario: short
-    print "hi"
+    def a = "hi"
+    print a

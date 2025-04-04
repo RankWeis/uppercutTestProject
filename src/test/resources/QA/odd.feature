@@ -5,7 +5,7 @@ Feature: stateful mock server
 
   Scenario:
     * print "hi"
-    * def a = call read("classpath:nested/test.feature")
+    * def hi = call read('classpath:QA/test.feature')
 
   Scenario:
     Given def r =

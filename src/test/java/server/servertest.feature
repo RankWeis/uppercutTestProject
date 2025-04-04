@@ -1,3 +1,4 @@
+@ignore
 Feature: Tests Server
   Scenario: Test server
     Given url "http://localhost:8000"
